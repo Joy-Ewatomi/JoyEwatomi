@@ -72,7 +72,7 @@ Currently on **Day 25 of a 90-day intensive OSINT training journey**, building t
 
 **Current:**
 - Computer Science, 300 Level
-- Summit University, Offa, Ilorin
+- Summit University, Offa, Kwara state.
 
 **Planned Certifications:**
 - Google Cybersecurity Certificate (2026)
@@ -94,7 +94,7 @@ Building toward working with organizations that need:
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/joy-ewatomi-559250366/
 - 🌐 **Google Business:** https://share.google/3nMAIdTJNwm9qR7sS
-- 🐦 **Twitter:** @joy Ewatomi 
+- 🐦 **Twitter:** @joy_Elvera
 - 📧 **Email:** joravytech@gmail.com
 
 ## 📈 GitHub Stats
