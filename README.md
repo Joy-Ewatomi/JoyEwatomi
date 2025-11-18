@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Joy Ewatomi
 
-## 🔐 Building Joravy Tech | cybersecurity Investigations
+## 🔐 Building Sentinel Intelligence Agency | SIA
 
 17-year-old CS student on a mission to become a professional cybersecurity investigator, specializing in **OSINT**, **Digital Forensics**, and **Ethical Hacking**.
 
@@ -13,7 +13,7 @@ Currently on **Day 25 of a 90-day intensive OSINT training journey**, building t
 
 ## 🎯 What I'm Building
 
-**Joravy Tech Investigations** - Independent cybersecurity investigation firm launching September 2026
+**Sentinel Intelligence Agency | SIA ** - Independent cybersecurity investigation firm launching September 2026
 
 **Services in Development:**
 - 🔍 OSINT (Open-Source Intelligence) Investigations
@@ -103,7 +103,7 @@ Building toward working with organizations that need:
 
 ## 🔥 Current Status
 📅 Day 25 of 90-day OSINT Journey
-🎯 Building Joravy Tech Investigations
+🎯 Building Sentinel Intelligence Agency| SIA
 🚀 Launching September 2026
 💪 Learning in Public | Building in Public
 
