@@ -3,9 +3,9 @@
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Upcoming-red)
 ![Days](https://img.shields.io/badge/90%20Day%20Journey-Day%2025-orange)
 
-# 👋 Hi, I'm Joy Ewatomi Arokoyo
+# 👋 Hi, I'm Joy Ewatomi
 
-## 🔐 Building Joravy Tech Investigations
+## 🔐 Building Joravy Tech | cybersecurity Investigations
 
 17-year-old CS student on a mission to become a professional cybersecurity investigator, specializing in **OSINT**, **Digital Forensics**, and **Ethical Hacking**.
 
