@@ -13,7 +13,7 @@ Currently on **Day 25 of a 90-day intensive OSINT training journey**, building t
 
 ## 🎯 What I'm Building
 
-**ShadowNode Intelligence Agency | SIA ** - Independent cybersecurity investigation firm launching September 2026
+**ShadowNode Intelligence Agency | SIA** - Independent cybersecurity investigation firm launching September 2026
 
 **Services in Development:**
 - 🔍 OSINT (Open-Source Intelligence) Investigations
