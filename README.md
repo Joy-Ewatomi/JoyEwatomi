@@ -120,8 +120,6 @@ Currently on **Day 25 of a 90-day intensive OSINT training journey**, building t
 **Phase 1: Foundation (Now - February 2026)**
 - ✅ Complete 90-Day OSINT Journey
 - ✅ Build investigation portfolio (30+ cases)
-- ✅ Weekend TryHackMe exploration (free rooms)
-- ✅ Fix NIN (priority task)
 
 **Phase 2: Credentials (March - April 2026)**
 - 📚 Complete Google Cybersecurity Certificate (FREE with financial aid)
