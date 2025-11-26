@@ -1,7 +1,6 @@
 ![OSINT](https://img.shields.io/badge/OSINT-Expert%20in%20Training-blue)
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-Learning-green)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Upcoming-red)
-![Days](https://img.shields.io/badge/90%20Day%20Journey-Day%2025-orange)
 
 # 👋 Hi, I'm Joy Ewatomi
 
@@ -9,7 +8,7 @@
 
 17-year-old CS student on a mission to become a professional cybersecurity investigator, specializing in **OSINT**, **Digital Forensics**, and **Ethical Hacking**.
 
-Currently on **Day 25 of a 90-day intensive OSINT training journey**, building the skills to serve organizations that need truth, transparency, and digital security.
+Currently on **a 90-day intensive OSINT training journey**, building the skills to serve organizations that need truth, transparency, and digital security.
 
 ## 🎯 What I'm Building
 
@@ -28,7 +27,7 @@ Currently on **Day 25 of a 90-day intensive OSINT training journey**, building t
 
 **Phase 1 (Days 1-30): Foundation**
 - ✅ Days 1-24: OSINT Fundamentals & Core Tools
-- 🔄 Day 25: Domain & IP Intelligence (Currently Here!)
+- 🔄 Day 25: Domain & IP Intelligence
 - ⏳ Days 26-30: Advanced IP Analysis
 
 **Phase 2 (Days 31-60): Intermediate Techniques**
@@ -134,7 +133,6 @@ Currently on **Day 25 of a 90-day intensive OSINT training journey**, building t
 - 👥 First test clients (build testimonials)
 
 **Phase 4: LAUNCH! (September 2026)**
-- 🎂 18th Birthday (September 13, 2026)
 - 🚀 ShadowNode Intelligence Agency officially opens
 - 🎯 Ready for real clients with full credential stack
 
@@ -205,4 +203,3 @@ I'm documenting this entire journey publicly - from Day 1 beginner to profession
 
 *Operating from the shadows to bring truth to light* 🔐
 
-*Last Updated: November 19, 2025 - Day 25/90*
