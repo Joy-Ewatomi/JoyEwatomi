@@ -6,13 +6,13 @@
 
 ## 🔐 Building ShadowNode Intelligence Agency | SIA
 
-17-year-old CS student on a mission to become a professional cybersecurity investigator, specializing in **OSINT**, **Digital Forensics**, and **Ethical Hacking**.
+A cs student on a mission to become a professional cybersecurity investigator, specializing in **OSINT**, **Digital Forensics**, and **Ethical Hacking**.
 
 Currently on **a 90-day intensive OSINT training journey**, building the skills to serve organizations that need truth, transparency, and digital security.
 
 ## 🎯 What I'm Building
 
-**ShadowNode Intelligence Agency | SIA** - Independent cybersecurity investigation firm launching **September 2026**
+**ShadowNode Intelligence Agency | SIA** - Independent cybersecurity investigation firm Launching **September 2026**
 
 **Services in Development:**
 - 🔍 OSINT (Open-Source Intelligence) Investigations
@@ -26,17 +26,17 @@ Currently on **a 90-day intensive OSINT training journey**, building the skills 
 **Timeline: November 2025 - February 2026**
 
 **Phase 1 (Days 1-30): Foundation**
-- ✅ Days 1-24: OSINT Fundamentals & Core Tools
-- 🔄 Day 25: Domain & IP Intelligence
+- ✅  OSINT Fundamentals & Core Tools
+- 🔄 Domain & IP Intelligence
 - ⏳ Days 26-30: Advanced IP Analysis
 
 **Phase 2 (Days 31-60): Intermediate Techniques**
-- ⏳ Days 31-45: Image Analysis & Geolocation
-- ⏳ Days 46-60: Email & Username Intelligence
+- ⏳ Image Analysis & Geolocation
+- ⏳ Email & Username Intelligence
 
 **Phase 3 (Days 61-90): Advanced Applications**
-- ⏳ Days 61-75: Dark Web OSINT
-- ⏳ Days 76-90: Complex Multi-Source Investigations
+- ⏳ Dark Web OSINT
+- ⏳ Complex Multi-Source Investigations
 
 **What I'm Mastering:**
 - Google Dorking & Advanced Search Operators
@@ -169,7 +169,6 @@ Building toward working with organizations that need:
 
 ## 🔥 Current Status
 
-📅 **Day 25/90** of OSINT Journey (27.8% complete)  
 🎯 Building **ShadowNode Intelligence Agency | SIA**  
 🚀 Launching **September 2026** (when I turn 18)  
 💪 **Learning in Public | Building in Public**  
