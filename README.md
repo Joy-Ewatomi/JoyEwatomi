@@ -21,31 +21,6 @@ Currently on **a 90-day intensive OSINT training journey**, building the skills 
 - 🛡️ Security Assessments
 - 📊 Threat Intelligence Analysis
 
-## 🚀 Current Focus (90-Day OSINT Journey)
-
-**Timeline: November 2025 - February 2026**
-
-**Phase 1 (Days 1-30): Foundation**
-- ✅  OSINT Fundamentals & Core Tools
-- 🔄 Domain & IP Intelligence
-- ⏳ Days 26-30: Advanced IP Analysis
-
-**Phase 2 (Days 31-60): Intermediate Techniques**
-- ⏳ Image Analysis & Geolocation
-- ⏳ Email & Username Intelligence
-
-**Phase 3 (Days 61-90): Advanced Applications**
-- ⏳ Dark Web OSINT
-- ⏳ Complex Multi-Source Investigations
-
-**What I'm Mastering:**
-- Google Dorking & Advanced Search Operators
-- Social Media Intelligence (SOCMINT)
-- Domain & IP Intelligence
-- Image Geolocation & Metadata Analysis
-- Network Mapping & Infrastructure Analysis
-- Digital Footprint Tracking & Link Analysis
-
 ## 💼 Skills & Tools
 
 **OSINT:**
