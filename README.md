@@ -4,15 +4,13 @@
 
 # 👋 Hi, I'm Joy Ewatomi
 
-## 🔐 Building ShadowNode Intelligence Agency | SIA
+## 🔐 Building ShadowNode Intelligence Bureau | SIA
 
 A cs student on a mission to become a professional cybersecurity investigator, specializing in **OSINT**, **Digital Forensics**, and **Ethical Hacking**.
 
-Currently on **a 90-day intensive OSINT training journey**, building the skills to serve organizations that need truth, transparency, and digital security.
-
 ## 🎯 What I'm Building
 
-**ShadowNode Intelligence Agency | SIA** - Independent cybersecurity investigation firm Launching **September 2026**
+**ShadowNode Intelligence Agency | SIA** - Independent cybersecurity investigation firm Launching **September 2026** (OSINT ONLY).
 
 **Services in Development:**
 - 🔍 OSINT (Open-Source Intelligence) Investigations
@@ -53,7 +51,7 @@ Currently on **a 90-day intensive OSINT training journey**, building the skills 
 ### 🔍 90-Day OSINT Journey Repository
 **[View Journey](./90-Day-OSINT-Journey/)** *(Coming Soon - Being Built!)*
 
-**Investigations Documented:** 15+ (and counting!)
+**Investigations Documented:**  (and counting!)
 - Domain Intelligence analyses
 - Social media investigations
 - Geolocation challenges
