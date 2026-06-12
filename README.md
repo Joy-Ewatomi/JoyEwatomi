@@ -170,8 +170,8 @@ ShadowNode's growth roadmap spans 10 years:
 - 🔐 Website: ShadowNode Intelligence Bureau
 
 **Social:**
-- 🐦 [Twitter: @joy_Elvera](https://x.com/Joy_Elvera)
-- 📸 [Instagram:@shadownodeintelligence](https://www.instagram.com/shadownodeintelligence?igsh=MXNwcnNhZHJlbzIyNA==)
+- 🐦 [x : @joy_Elvera](https://x.com/Joy_Elvera)
+- 📸 [Instagram: @shadownodeintelligence](https://www.instagram.com/shadownodeintelligence?igsh=MXNwcnNhZHJlbzIyNA==)
 - 🎬 [TikTok: @shadownodeib](https://www.tiktok.com/@shadownodeib?is_from_webapp=1&sender_device=pc)
 - 📧 Email: shadownode2026@gmail.com
 ---
