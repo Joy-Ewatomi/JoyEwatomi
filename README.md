@@ -53,15 +53,13 @@ We provide intelligence solutions for **individuals, businesses, and institution
 
 ---
 
-## 🚀 Current Project: 224-Day OSINT Curriculum
+## 🚀 Current phase before lauch: 224-Day OSINT Curriculum
 
 **Building professional OSINT methodology. Publishing in public.**
 
 ### 📊 Progress
 
-- **Status:** Day 27+ (In Progress)
-- **Format:** 70+ educational video modules
-- **Timeline:** June 8 - September 18, 2026
+- **Status:** Day 32 of 224
 - **Goal:** Launch-ready credential stack by Sept 19
 
 ### 🎓 Curriculum Structure
@@ -131,7 +129,6 @@ PROFESSIONAL SKILLS
 - Computer Science, 300 Level
 - Summit University, Offa, Kwara State, Nigeria
 - Graduation: July 2027
-- CGPA: 4.75
 
 **Specialization:** Cybersecurity (OSINT & Digital Investigations)
 
@@ -142,18 +139,12 @@ PROFESSIONAL SKILLS
 ## 🗓️ 10-Year Vision
 
 ```
-2026   Launch ShadowNode with OSINT services
-       ↓
-2027   Government partnerships (NYSC strategic posting)
-       Add digital forensics, expand to 2-person team
-       ↓
-2028   Security research division launched
-       ↓
-2029   Multi-person security team operational
-       ↓
-2030+  International expansion
-       Institutional contracts
-       Proprietary technology integration
+ShadowNode's growth roadmap spans 10 years:
+2026: Launch Nigeria operations
+2027-2029: Government partnerships + expand across Africa
+2030-2032: UK expansion + law qualifications
+2032+: International institutional contracts
+
 ```
 
 **Goal:** Build investigation infrastructure that governments, institutions, and organizations depend on.
@@ -175,13 +166,14 @@ PROFESSIONAL SKILLS
 ## 🔗 Connect
 
 **Professional:**
-- 🌐 [LinkedIn: Joy Ewatomi Arokoyo](https://www.linkedin.com/in/joy-ewatomi/)
+- 🌐 [LinkedIn: Joy Ewatomi Arokoyo](https://www.linkedin.com/in/joy-ewatomi-559250366/)
 - 🔐 Website: ShadowNode Intelligence Bureau
 
 **Social:**
-- 🐦 [Twitter: @joy_Elvera](https://twitter.com/joy_Elvera)
-- 📧 Email: joravytech@gmail.com
-
+- 🐦 [Twitter: @joy_Elvera](https://x.com/Joy_Elvera)
+- 📸 [Instagram:@shadownodeintelligence](https://www.instagram.com/shadownodeintelligence?igsh=MXNwcnNhZHJlbzIyNA==)
+- 🎬 [TikTok: @shadownodeib](https://www.tiktok.com/@shadownodeib?is_from_webapp=1&sender_device=pc)
+- 📧 Email: shadownode2026@gmail.com
 ---
 
 ## 📌 Current Status
