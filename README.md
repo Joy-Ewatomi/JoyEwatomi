@@ -1,4 +1,4 @@
-# ShadowNode Operations Bureau
+# ShadowNode Operations Bureau Limited
 
 **Institutional-Grade Digital Intelligence**
 
@@ -74,7 +74,11 @@ We are systematically building and documenting professional OSINT methodology th
 ## Connect
 
 - Website: under development
-- Email: shadownode2026@gmail.com
-- LinkedIn | X | Instagram | TikTok
-
+- [x](https://x.com/Joy_Elvera)
+- [Instagram](https://www.instagram.com/shadownodeob)
+- [TikTok](https://www.tiktok.com/@shadownode0b)
+- [Youtube](https://www.youtube.com/@ShadowNodeOperationsBureau)
+- [linkedln](https://www.linkedin.com/in/joy-ewatomi-559250366/)
+- Email:shadownode2026@gmail.com
+---
 **Invisible Intelligence. Visible Results.**
