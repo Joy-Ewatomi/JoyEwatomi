@@ -1,194 +1,80 @@
-# 🔐 ShadowNode Intelligence Bureau
+# ShadowNode Operations Bureau
 
-**Professional OSINT Investigations | Digital Forensics | Security Research**
+**Institutional-Grade Digital Intelligence**
+
+OSINT • Digital Forensics • Ethical Hacking • Training • Strategic Advisory
 
 ---
 
 ## What We Do
 
-ShadowNode Intelligence Bureau is a **professional investigations firm** specializing in open-source intelligence and security research.
+ShadowNode Operations Bureau is a private digital intelligence firm built to deliver institutional-grade capability. We provide structured intelligence solutions for law enforcement, government institutions, corporations, legal professionals, and private clients who require accuracy, discretion, and court-admissible results.
 
-We provide intelligence solutions for **individuals, businesses, and institutions** who demand accuracy, discretion, and results.
+We operate with a clear progression: starting from Open Source Intelligence (OSINT), moving into Digital Forensics, Ethical Hacking, Threat Intelligence, Training, and full strategic advisory.
 
-**Founded:** June 2026 | **Launch:** September 19, 2026
-
----
-
-## 📋 Services
-
-### 🔍 OSINT Investigations (Available Now)
-
-**Full-Scope Open-Source Intelligence**
-
-- **Background Verification** - Complete digital identity verification
-- **Corporate Due Diligence** - Business research and risk assessment  
-- **Fraud Investigation** - Identifying scams, fraudulent operations, bad actors
-- **Geolocation Analysis** - Tracking locations, movement patterns, infrastructure
-- **Social Media Profiling** - Cross-platform identity mapping and behavior analysis
-- **Digital Identity Mapping** - Complete digital footprint reconstruction
-
-*Methodology: Professional. Results: Court-admissible. Timeline: Fast.*
+- **Founded:** 2026  
+- **Official Launch:** September 19, 2026
 
 ---
 
-### ⚔️ Ethical Hacking & Security Research (Coming 2027)
+## Core Services & Launch Timeline
 
-**Penetration Testing & Vulnerability Assessment**
-
-- **Penetration Testing** - Identifying security weaknesses in systems
-- **Vulnerability Assessment** - Finding exploitable gaps before attackers do
-- **Security Research** - Understanding attack methodologies and defense strategies
-- **Incident Response Support** - Digital forensics and breach investigation
-
-*Scaling to multi-person security team.*
-
----
-
-### 💻 Digital Forensics & Evidence Analysis (Coming 2027)
-
-- Chain-of-custody evidence preservation
-- Court-admissible documentation
-- Timeline reconstruction
-- Digital artifact analysis
+| Service                              | Status                | Launch Window     |
+|--------------------------------------|-----------------------|-------------------|
+| OSINT Investigations                 | Available at Launch   | September 2026    |
+| Cybersecurity Training               | Available at Launch   | September 2026    |
+| Digital Forensics                    | Coming Soon           | January 2027      |
+| Ethical Hacking                      | Coming Soon           | April 2027        |
+| Government Consulting                | Coming Soon           | 2027              |
+| Correctional Intelligence            | Coming Soon           | 2027+             |
+| Legal Advisory / Litigation Support  | Coming Soon           | 2027+             |
+| OPSEC Consulting                     | Coming Soon           | 2027+             |
 
 ---
 
-## 🚀 Current phase before lauch: 224-Day OSINT Curriculum
+## Current Focus Before Launch
 
-**Building professional OSINT methodology. Publishing in public.**
+**224-Day OSINT Curriculum** (Building in Public)
 
-### 📊 Progress
+We are systematically building and documenting professional OSINT methodology through a structured curriculum covering:
 
-- **Status:** Day 32 of 224
-- **Goal:** Launch-ready credential stack by Sept 19
+- Foundations (Email, Username, Phone, Social Media OSINT)
+- People & Corporate Intelligence
+- Technical Investigation (Domain, IP, Image, Video, Document)
+- Advanced Topics (Dark Web, Cryptocurrency, Geolocation, AI tools)
+- Professional Skills (OPSEC, Legal & Ethical Framework)
 
-### 🎓 Curriculum Structure
-
-```
-FOUNDATIONS & FUNDAMENTALS
-├─ Email OSINT (Days 5-11)
-├─ Username Investigation (Days 12-17)
-├─ Phone OSINT (Days 18-24)
-└─ Social Media OSINT (Days 25-38)
-
-PEOPLE & CORPORATE INTELLIGENCE
-├─ People OSINT (Days 39-51)
-├─ Business & Corporate OSINT (Days 122-132)
-└─ Government Records (Days 133-141)
-
-TECHNICAL INVESTIGATION
-├─ Domain & Website OSINT (Days 52-63)
-├─ IP Address OSINT (Days 64-70)
-├─ Image OSINT (Days 71-80)
-├─ Video OSINT (Days 81-87)
-└─ Document OSINT (Days 88-94)
-
-ADVANCED & SPECIALIZED
-├─ Dark Web & Breach Data (Days 95-107)
-├─ Cyber Espionage & Tradecraft (Days 108-113)
-├─ Cryptocurrency OSINT (Days 114-121)
-├─ Geolocation Mastery (Days 142-154)
-└─ AI Tools for OSINT (Days 173-176)
-
-PROFESSIONAL SKILLS
-├─ OPSEC & Counter-Intelligence (Days 177-185)
-├─ Legal & Ethical Framework (Days 195-202)
-└─ Professional Launch (Days 203-224)
-```
+**Goal:** Launch-ready professional capability by September 19, 2026.
 
 ---
 
-## 🛠️ Technical Methodology
+## 10-Year Vision
 
-### OSINT Tools & Approach
-- Advanced Google dorking & search operators
-- Domain intelligence & DNS analysis
-- Social media cross-platform correlation
-- Geolocation & landmark identification
-- Reverse image search & facial recognition
-- Cryptocurrency blockchain analysis
-- Open-source tools: Maltego, theHarvester, Shodan, Censys
+| Phase          | Focus                                                      |
+|----------------|------------------------------------------------------------|
+| 2026           | Launch Nigeria operations (OSINT + Training)               |
+| 2027–2029      | Expand services + Government partnerships + African presence |
+| 2030–2032      | UK expansion + deeper institutional contracts              |
+| 2032+          | International institutional relationships                  |
 
-### Investigation Framework
-1. **Planning** - Objective definition, scope, legal boundaries
-2. **Collection** - Systematic OSINT from public sources
-3. **Processing** - Data organization & verification
-4. **Analysis** - Pattern recognition, timeline construction, correlation
-5. **Documentation** - Chain-of-custody, evidence preservation
-6. **Reporting** - Court-admissible professional documentation
-
-**Every investigation is legally defensible and professionally documented.**
+**Long-term Goal:** Become a trusted private intelligence partner that governments, institutions, and organizations rely on for verified digital intelligence.
 
 ---
 
-## 📚 Background & Credentials
+## Philosophy
 
-**Founder:** Joy Ewatomi Arokoyo
-
-**Education:**
-- Computer Science, 300 Level
-- Summit University, Offa, Kwara State, Nigeria
-- Graduation: July 2027
-
-**Specialization:** Cybersecurity (OSINT & Digital Investigations)
-
-**Current Focus:** Building professional OSINT methodology through daily curriculum delivery
+- **Institutional Standards** — Every investigation follows professional methodology  
+- **Ethical & Legal** — Full compliance with NDPA and relevant laws  
+- **Verifiable Results** — Court-admissible documentation  
+- **Transparent Process** — Clear, teachable methodology  
+- **Scalable** — Built to grow from founder-led to multi-person operations  
 
 ---
 
-## 🗓️ 10-Year Vision
+## Connect
 
-```
-ShadowNode's growth roadmap spans 10 years:
-2026: Launch Nigeria operations
-2027-2029: Government partnerships + expand across Africa
-2030-2032: UK expansion + law qualifications
-2032+: International institutional contracts
+- Website: under development
+- Email: shadownode2026@gmail.com
+- LinkedIn | X | Instagram | TikTok
 
-```
-
-**Goal:** Build investigation infrastructure that governments, institutions, and organizations depend on.
-
----
-
-## 📈 Philosophy
-
-- **Professional:** Every investigation follows institutional standards
-- **Transparent:** Methodology is documented and teachable
-- **Ethical:** Legal boundaries respected, transparency prioritized
-- **Scalable:** Building infrastructure that grows from 1 person to multi-person teams
-- **Results-Driven:** Intelligence that leads to action and resolution
-
-**Building in public. Building with integrity.**
-
----
-
-## 🔗 Connect
-
-**Professional:**
-- 🌐 [LinkedIn: Joy Ewatomi Arokoyo](https://www.linkedin.com/in/joy-ewatomi-559250366/)
-- 🔐 Website: ShadowNode Intelligence Bureau
-
-**Social:**
-- 🐦 [x : @joy_Elvera](https://x.com/Joy_Elvera)
-- 📸 [Instagram: @shadownodeintelligence](https://www.instagram.com/shadownodeintelligence?igsh=MXNwcnNhZHJlbzIyNA==)
-- 🎬 [TikTok: @shadownodeib](https://www.tiktok.com/@shadownodeib?is_from_webapp=1&sender_device=pc)
-- 📧 Email: shadownode2026@gmail.com
----
-
-## 📌 Current Status
-
-🎯 **224-Day Curriculum in Progress** - Daily video release  
-🚀 **September 19, 2026** - Official Launch  
-💼 **Building Team Infrastructure** - Scalable from day one  
-🔐 **Invisible Intelligence. Visible Results.**
-
----
-
-*ShadowNode Intelligence Bureau | Open-Source Intelligence | Digital Forensics | Security Research | Professional Investigations*
-
-```
-Operating with institutional standards.
-Building with professional methodology.
-Delivering intelligence that matters.
-```
+**Invisible Intelligence. Visible Results.**
